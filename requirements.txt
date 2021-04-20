@@ -11,7 +11,7 @@ more-itertools==8.2.0
 packaging==20.1
 pluggy==0.13.1
 pubnub==4.1.6
-py==1.8.1
+py==1.10.0
 pycryptodomex==3.9.7
 pyparsing==2.4.6
 pytest==5.3.5
@@ -35,7 +35,7 @@ more-itertools==8.2.0
 packaging==20.1
 pluggy==0.13.1
 pubnub==4.1.6
-py==1.8.1
+py==1.10.0
 pycparser==2.20
 pycryptodomex==3.9.7
 pyparsing==2.4.6
